@@ -7,4 +7,4 @@ git push -u origin master                                               //推送
 
 git pull origin master
 
-git reset 
+//添加
